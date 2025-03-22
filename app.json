@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "gunstrends-app",
-    "slug": "gunstrends-app",
+    "name": "GunsNTrendsApp",
+    "slug": "GunsNTrendsApp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
